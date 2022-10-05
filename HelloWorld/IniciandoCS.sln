@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 - ArrayList", "..\ArrayLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 - Dicionario", "..\Dicionario\2 - Dicionario.csproj", "{535344D0-1ED6-4A83-86E3-3DCC781ABE31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 - Queue", "..\Queue\3 - Queue.csproj", "{02793230-A303-4113-81D5-72BF2251E157}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{535344D0-1ED6-4A83-86E3-3DCC781ABE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{535344D0-1ED6-4A83-86E3-3DCC781ABE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{535344D0-1ED6-4A83-86E3-3DCC781ABE31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02793230-A303-4113-81D5-72BF2251E157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02793230-A303-4113-81D5-72BF2251E157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02793230-A303-4113-81D5-72BF2251E157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02793230-A303-4113-81D5-72BF2251E157}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -107,6 +113,7 @@ Global
 		{22172C1E-2D2C-422D-B9E3-B87D241E9770} = {3E0BE89B-EC09-4C09-A9E8-503CBA5948CA}
 		{0BEF26C3-FFFD-4EDE-872E-45DE320E1C8D} = {E37501E5-7D94-44AC-996C-47DD81C974FA}
 		{535344D0-1ED6-4A83-86E3-3DCC781ABE31} = {E37501E5-7D94-44AC-996C-47DD81C974FA}
+		{02793230-A303-4113-81D5-72BF2251E157} = {E37501E5-7D94-44AC-996C-47DD81C974FA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9A5336AE-C2CD-4FE3-8486-5C66167840FB}
