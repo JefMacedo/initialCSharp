@@ -133,6 +133,8 @@ switch (mes.ToUpper())
         break;
 }*/
 
+/*
+////Estrutura de repetição while
 int i = 0;
 
 while (i <= 10)
@@ -151,8 +153,15 @@ while (j < arInt.Length)
     j++;
 }
 
-for(int x = 0; x < arInt.Length ; x++)
+////Estrutura de repetição for
+for (int x = 0; x < arInt.Length ; x++)
 {
     int numero = arInt[x];
+    Console.WriteLine(numero);
+}*/
+
+int[] arInt = new int[] { 1, 2, 3, 4, 5 };
+foreach(int numero in arInt)
+{
     Console.WriteLine(numero);
 }
