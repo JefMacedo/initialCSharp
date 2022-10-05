@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{7778DF38-CCC1-4E71-B4F0-EE78F1850A9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{7778DF38-CCC1-4E71-B4F0-EE78F1850A9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 - OperadoresAritmetricos", "..\Operadores\1 - OperadoresAritmetricos.csproj", "{262B47F7-8B45-4372-AA33-DD553029A672}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1 - OperadoresAritmetricos", "..\Operadores\1 - OperadoresAritmetricos.csproj", "{262B47F7-8B45-4372-AA33-DD553029A672}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 - OperadoresRelacionais", "..\OperadoresRelacionais\3 - OperadoresRelacionais.csproj", "{69B6545E-10D2-4D6B-A402-5EA98957CC43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3 - OperadoresRelacionais", "..\OperadoresRelacionais\3 - OperadoresRelacionais.csproj", "{69B6545E-10D2-4D6B-A402-5EA98957CC43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 - OperadoresLogicos", "..\OperadoresLogicos\2 - OperadoresLogicos.csproj", "{40FE928A-A857-4478-AB8B-0247DCBF0A58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2 - OperadoresLogicos", "..\OperadoresLogicos\2 - OperadoresLogicos.csproj", "{40FE928A-A857-4478-AB8B-0247DCBF0A58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 - ManipulandoStrings", "..\ManipulandoStrings\1 - ManipulandoStrings.csproj", "{B8056562-A987-44B2-B723-D004F093A718}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1 - ManipulandoStrings", "..\ManipulandoStrings\1 - ManipulandoStrings.csproj", "{B8056562-A987-44B2-B723-D004F093A718}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 - CondicionalIF", "..\CondicionalIF\1 - CondicionalIF.csproj", "{7CAD76E6-6E4C-4A21-B766-B39F9C3FCD35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1 - CondicionalIF", "..\CondicionalIF\1 - CondicionalIF.csproj", "{7CAD76E6-6E4C-4A21-B766-B39F9C3FCD35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 - CondicionalSwitch", "..\CondicionalSwitch\2 - CondicionalSwitch.csproj", "{E588BACA-42CF-4046-AF18-7347B1CF3054}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2 - CondicionalSwitch", "..\CondicionalSwitch\2 - CondicionalSwitch.csproj", "{E588BACA-42CF-4046-AF18-7347B1CF3054}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 - EstruturaWhile", "..\EstruturaWhile\3 - EstruturaWhile.csproj", "{AC5DA0B4-B9F8-49AF-8E0A-4EB607FB7D1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3 - EstruturaWhile", "..\EstruturaWhile\3 - EstruturaWhile.csproj", "{AC5DA0B4-B9F8-49AF-8E0A-4EB607FB7D1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 - EstruturaFor", "..\EstruturaFor\1 - EstruturaFor.csproj", "{8084F39A-F5E6-4C3D-94D5-90AEA371A669}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1 - EstruturaFor", "..\EstruturaFor\1 - EstruturaFor.csproj", "{8084F39A-F5E6-4C3D-94D5-90AEA371A669}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 - EstruturaForeach", "..\EstruturaForeach\2 - EstruturaForeach.csproj", "{22172C1E-2D2C-422D-B9E3-B87D241E9770}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2 - EstruturaForeach", "..\EstruturaForeach\2 - EstruturaForeach.csproj", "{22172C1E-2D2C-422D-B9E3-B87D241E9770}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Operadores", "1 - Operadores", "{D246A217-14FD-4C9E-82D6-6531858C6F4A}"
 EndProject
@@ -33,7 +33,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Estrutura de repetiçã
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Coleções", "5 - Coleções", "{E37501E5-7D94-44AC-996C-47DD81C974FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 - ArrayList", "..\1 - ArrayList\1 - ArrayList.csproj", "{30C6739F-5658-4ABA-8822-CFA249220CC9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 - ArrayList", "..\ArrayList\1 - ArrayList.csproj", "{0BEF26C3-FFFD-4EDE-872E-45DE320E1C8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 - Dicionario", "..\Dicionario\2 - Dicionario.csproj", "{535344D0-1ED6-4A83-86E3-3DCC781ABE31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,10 +83,14 @@ Global
 		{22172C1E-2D2C-422D-B9E3-B87D241E9770}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22172C1E-2D2C-422D-B9E3-B87D241E9770}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22172C1E-2D2C-422D-B9E3-B87D241E9770}.Release|Any CPU.Build.0 = Release|Any CPU
-		{30C6739F-5658-4ABA-8822-CFA249220CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{30C6739F-5658-4ABA-8822-CFA249220CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{30C6739F-5658-4ABA-8822-CFA249220CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{30C6739F-5658-4ABA-8822-CFA249220CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BEF26C3-FFFD-4EDE-872E-45DE320E1C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BEF26C3-FFFD-4EDE-872E-45DE320E1C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BEF26C3-FFFD-4EDE-872E-45DE320E1C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BEF26C3-FFFD-4EDE-872E-45DE320E1C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{535344D0-1ED6-4A83-86E3-3DCC781ABE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535344D0-1ED6-4A83-86E3-3DCC781ABE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535344D0-1ED6-4A83-86E3-3DCC781ABE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535344D0-1ED6-4A83-86E3-3DCC781ABE31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -99,7 +105,8 @@ Global
 		{AC5DA0B4-B9F8-49AF-8E0A-4EB607FB7D1E} = {3E0BE89B-EC09-4C09-A9E8-503CBA5948CA}
 		{8084F39A-F5E6-4C3D-94D5-90AEA371A669} = {3E0BE89B-EC09-4C09-A9E8-503CBA5948CA}
 		{22172C1E-2D2C-422D-B9E3-B87D241E9770} = {3E0BE89B-EC09-4C09-A9E8-503CBA5948CA}
-		{30C6739F-5658-4ABA-8822-CFA249220CC9} = {E37501E5-7D94-44AC-996C-47DD81C974FA}
+		{0BEF26C3-FFFD-4EDE-872E-45DE320E1C8D} = {E37501E5-7D94-44AC-996C-47DD81C974FA}
+		{535344D0-1ED6-4A83-86E3-3DCC781ABE31} = {E37501E5-7D94-44AC-996C-47DD81C974FA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9A5336AE-C2CD-4FE3-8486-5C66167840FB}
