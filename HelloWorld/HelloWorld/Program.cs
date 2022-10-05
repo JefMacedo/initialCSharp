@@ -95,6 +95,7 @@ if (nota >= 5)
     Console.WriteLine(reprovado);
 }*/
 
+/*
 // Condicional Switch
 const string DIAS_31 = "Este mês tem 31 dias!";
 const string DIAS_30 = "Este mês tem 30 dias!";
@@ -130,4 +131,28 @@ switch (mes.ToUpper())
     default:
         Console.WriteLine(MES_INVALIDO);
         break;
+}*/
+
+int i = 0;
+
+while (i <= 10)
+{
+    Console.WriteLine(i);
+    i++;
+}
+
+int[] arInt = new int[] { 1, 2, 3, 4, 5 };
+int j = 0;
+
+while (j < arInt.Length)
+{
+    int numero = arInt[j];
+    Console.WriteLine(numero);
+    j++;
+}
+
+for(int x = 0; x < arInt.Length ; x++)
+{
+    int numero = arInt[x];
+    Console.WriteLine(numero);
 }
